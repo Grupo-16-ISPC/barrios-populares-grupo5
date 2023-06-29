@@ -6,7 +6,7 @@ Zorrilla, Juan Pablo <zorrillajp.87@gmail.com>
 
 Mercado, Isaac Pablo Rubén <mercado.isaacpablor@gmail.com>
 
-Ancillotti, Angel Gabriel <ancillottiangel@gmail.com> rama_angel 
+Ancillotti, Angel Gabriel <ancillottiangel@gmail.com> Analisis_Cordoba.ipynb [rama_angel]
 
 Ibarra, Facundo Daniel <ibarrafacundo@outlook.com>
 
@@ -76,6 +76,24 @@ Estructura del repositorio: El repositorio debe seguir una estructura organizada
 
 
 
+## Conceptos / Marco Teórico
+
+---
+
+## ¿Qué barrios forman parte del registro?
+
+Aquellos barrios denominados villas, asentamientos y urbanizaciones informales que presentan diferentes grados de precariedad. Deben ser un mínimo de ocho familias agrupadas o contiguas en donde más de la mitad de sus habitantes no cuenten con título de propiedad del suelo ni acceso formal de dos servicios básicos (luz, agua, cloaca).
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+## Resumen final 
+Basamos el análisis en los barrios populares del país. En el grupo somos 5 integrantes, pertenecientes de diferentes provincias, por lo que decidimos que el análisis individual se base en la zona de residencia de cada uno. Existe una salvedad para la Provincia de Bs As ya que dos de los integrantes comparten provincia y localidad, por lo que también se va a tomar como referencia a CABA para su análisis. 
+El IDE elegido fue Jupyter Notebook con el editor de texto VSC.
+En cada uno de los cuadernos se encuentran importadas las correspondientes librerías, el DF y a partir de allí el desarrollo completo del proyecto, con sus respectivos análisis y conclusiones finales.
+
 ## Páginas de interés
 
 ---
@@ -96,23 +114,7 @@ Son cuatro videos con los archivos notebooks y csv
 
 [Introducción a GIS con geopandas, por Leonardo Morales](https://youtu.be/_FR_d6BfFss)
 
-## Conceptos / Marco Teórico
 
----
-
-## ¿Qué barrios forman parte del registro?
-
-Aquellos barrios denominados villas, asentamientos y urbanizaciones informales que presentan diferentes grados de precariedad. Deben ser un mínimo de ocho familias agrupadas o contiguas en donde más de la mitad de sus habitantes no cuenten con título de propiedad del suelo ni acceso formal de dos servicios básicos (luz, agua, cloaca).
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-## Resumen final 
-Basamos el análisis en los barrios populares del país. En el grupo somos 5 integrantes, pertenecientes de diferentes provincias, por lo que decidimos que el análisis individual se base en la zona de residencia de cada uno. Existe una salvedad para la Provincia de Bs As ya que dos de los integrantes comparten provincia y localidad, por lo que también se va a tomar como referencia a CABA para su análisis. 
-El IDE elegido fue Jupyter Notebook con el editor de texto VSC.
-En cada uno de los cuadernos se encuentran importadas las correspondientes librerías, el DF y a partir de allí el desarrollo completo del proyecto, con sus respectivos análisis y conclusiones finales
  
 
 
