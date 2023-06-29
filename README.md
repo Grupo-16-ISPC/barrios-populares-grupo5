@@ -2,17 +2,17 @@
 # TP FINAL CS. DATOS GRUPO 5
 
 ## Integrantes:
-Zorrilla, Juan Pablo <zorrillajp.87@gmail.com> CABA_BarriosPopulares.ipynb [rama_jp]
+Zorrilla, Juan Pablo <zorrillajp.87@gmail.com> CABA_BarriosPopulares.ipynb [rama_jp] Sala 1
 
 Mercado, Isaac Pablo Rubén <mercado.isaacpablor@gmail.com> [rama_pablo]
 
-Ancillotti, Angel Gabriel <ancillottiangel@gmail.com> Analisis_Cordoba.ipynb [rama_angel]
+Ancillotti, Angel Gabriel <ancillottiangel@gmail.com> Analisis_Cordoba.ipynb [rama_angel] Sala 1
 
-Ibarra, Facundo Daniel <ibarrafacundo@outlook.com>
+Ibarra, Facundo Daniel <ibarrafacundo@outlook.com> Notebook del analisis de la provincia de tucuman 
 
 Clavijo, juan <juancheloar@gmail.com>
 
-Paz, Fernando <paz.fgabriel@gmail.com> [rama-gabriel]
+Paz, Fernando <paz.fgabriel@gmail.com> Mendoza_Barriospopulares.ipynb [rama-gabriel] Sala 1
 
 ---
 
