@@ -8,7 +8,7 @@ Mercado, Isaac Pablo Rubén <mercado.isaacpablor@gmail.com> [rama_pablo]
 
 Ancillotti, Angel Gabriel <ancillottiangel@gmail.com> Analisis_Cordoba.ipynb [rama_angel] Sala 1
 
-Ibarra, Facundo Daniel <ibarrafacundo@outlook.com> Notebook del analisis de la provincia de tucuman 
+Ibarra, Facundo Daniel <ibarrafacundo@outlook.com> Notebook del analisis de la provincia de tucuman [rama-facu] Sala 1
 
 Clavijo, juan <juancheloar@gmail.com>
 
