@@ -1,8 +1,15 @@
 Package         Version
---------------- -------
+--------------- -----------
+attrs           23.1.0
+certifi         2023.5.7
+click           8.1.3
+click-plugins   1.1.1
+cligj           0.7.2
 contourpy       1.1.0
 cycler          0.11.0
+Fiona           1.9.4.post1
 fonttools       4.40.0
+geopandas       0.13.2
 kiwisolver      1.4.4
 matplotlib      3.7.1
 numpy           1.25.0
@@ -11,11 +18,14 @@ pandas          2.0.2
 Pillow          9.5.0
 pip             23.1.2
 pyparsing       3.0.9
+pyproj          3.6.0
 python-dateutil 2.8.2
 pytz            2023.3
 seaborn         0.12.2
 setuptools      67.8.0
+shapely         2.0.1
 six             1.16.0
 tzdata          2023.3
 wheel           0.40.0
+
 
