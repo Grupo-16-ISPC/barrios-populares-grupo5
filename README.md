@@ -2,9 +2,9 @@
 # TP FINAL CS. DATOS GRUPO 5
 
 ## Integrantes:
-Zorrilla, Juan Pablo <zorrillajp.87@gmail.com> CABA_BarriosPopulares.ipynb [rama_jp] Sala 1
+Zorrilla, Juan Pedro <zorrillajp.87@gmail.com> CABA_BarriosPopulares.ipynb [rama_jp] Sala 1
 
-Mercado, Isaac Pablo Rubén <mercado.isaacpablor@gmail.com> [rama_pablo]
+Mercado, Isaac Pablo Rubén <mercado.isaacpablor@gmail.com> chaco_castelli.ipynb [rama_pablo] Sala 1
 
 Ancillotti, Angel Gabriel <ancillottiangel@gmail.com> Analisis_Cordoba.ipynb [rama_angel] Sala 1
 
