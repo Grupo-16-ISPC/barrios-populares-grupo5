@@ -10,7 +10,7 @@ Ancillotti, Angel Gabriel <ancillottiangel@gmail.com> Analisis_Cordoba.ipynb [ra
 
 Ibarra, Facundo Daniel <ibarrafacundo@outlook.com> Notebook del analisis de la provincia de tucuman [rama-facu] Sala 1
 
-Clavijo, juan <juancheloar@gmail.com>
+Clavijo, juan <juancheloar@gmail.com> Ros_barriosPopulares.ipynb [rama_jp] Sala 1
 
 Paz, Fernando <paz.fgabriel@gmail.com> Mendoza_Barriospopulares.ipynb [rama-gabriel] Sala 1
 
